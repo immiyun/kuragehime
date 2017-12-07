@@ -1,0 +1,122 @@
+body {
+	background-color: white;
+	background-image: url(princess_pattern.png);
+	background-position: center;
+    background-repeat: repeat;
+}
+
+/* unvisited link */
+a:link {
+    color: #FF78BC;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #E65EA2;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: rgb(255,255,255);
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #FFB6C1;
+    text-decoration: none;
+}
+
+
+.Kuranosuke {
+    color: rgb(255,255,255);
+    text-decoration: none;
+    width: 134px; 
+    height: 394px; 
+    background: url(Kuranosuke.jpg) no-repeat; 
+}
+
+.Kuranosuke:hover {
+    color: rgb(255,255,255);
+    text-decoration: none;
+    width: 134px; 
+height: 394px; 
+background: url(Kuranosuke.jpeg) no-repeat; 
+}
+
+
+.amamizukan {
+	height: 300px;
+	overflow: hidden;
+	background-color: rgb();
+	opacity: 1;
+	margin: 10px;
+	float: left;
+	font-family: 'Merriweather', serif;
+}
+
+
+
+.amamizukanbg {
+	margin-top:20px;
+	height: 600px;
+	width: 960px;
+	background-image: url("amamizukanmanga.png");
+	background-repeat: no-repeat;
+	background-position: bottom left;
+	background-size: 500px;
+	background-color: white;
+}
+
+.empty {
+	height: 350px;
+	background-color: rgb();
+	opacity: .8;
+	margin: 10px;
+}
+
+
+.bio {
+	height: 400px;
+	background-color: white;
+	opacity: 1.0;
+	margin-left: 10px;
+	padding: 5px;
+	float: left;
+	font-family: 'Merriweather', serif;
+	line-height: 150%;
+}
+
+
+.title {
+	font-family: 'Varela Round', sans-serif;
+	font-size: 36px;
+	color: #FF78BC;
+	background-color: rgba(255,255,255,1.0);
+}
+
+.image {
+height: 400px; 
+background-color:  ;
+padding: 5px
+}
+
+
+
+
+
+
+
+/*Koibuchi*/
+.Koibuchibg {
+	margin-top:20px;
+	height: 550px;
+	width: 950px;
+	background-image: url("Koibuchihousemanga.png"), url("Koibuchihouseanime.png");
+	background-repeat: no-repeat;
+	background-position: bottom left, bottom; 
+	background-size: 220px 280px, 700px 280px;
+	background-color: rgb(255,255,255);
+}

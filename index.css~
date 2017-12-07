@@ -1,0 +1,59 @@
+body {
+	background-color: white;
+	background-image: url(princess_jellyfish.png), url(princess_pattern.png);
+	background-position: bottom, center;
+	background-repeat: no-repeat, repeat;
+	background-size:  1300px, auto;
+	font-family: 'Merriweather', serif;
+}
+
+
+/* unvisited link */
+a:link {
+    color: #FF78BC;
+    text-decoration: none;
+    background-color: white;
+}
+
+/* visited link */
+a:visited {
+    color: #E65EA2;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: rgb(255,255,255);
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #FFB6C1;
+    text-decoration: none;
+}
+
+
+
+.bio {
+	height: 650px;
+	background-color: white;
+	padding: 5px;
+	float: left;
+	margin-top: 40px;
+	line-height: 150%;
+}
+
+
+.empty
+{
+	height: 370px;
+}
+
+
+.title {
+	font-family: 'Varela Round', sans-serif;
+	font-size: 36px;
+	color: #FF78BC;
+	background-color: rgba(255,255,255,1.0);
+}

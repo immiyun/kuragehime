@@ -10,7 +10,7 @@ body {
 .bg_img{
 	
 	background-image: url(princess_jellyfish.png); 
-	background-position: center;
+	background-position: fixed;
 	background-repeat: no-repeat;
 	background-size:  1300px;
 	z-index: -1;

@@ -57,6 +57,14 @@ a:active {
 }
 
 
+.menu {
+    background-color: white;
+    width: 400px;
+    float: left;
+    padding: 10px;
+}
+
+
 .empty {
 	height: 370px;
 }
